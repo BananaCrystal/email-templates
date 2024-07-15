@@ -1,5 +1,5 @@
 
-  <img src="https://files.slack.com/files-pri/T019PGLEKLM-F07C927AC59/bananacrystal-logo-full.png" alt="signature" >
+  <img src="https://github.com/user-attachments/assets/8c916619-2131-4244-8c93-0e6955428c1f" alt="signature" >
 <a name="readme-top"></a>
 
 # BananaCrystal Email Templates

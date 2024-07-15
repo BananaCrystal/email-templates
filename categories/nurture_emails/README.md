@@ -25,8 +25,8 @@
     <ul>
     <li><strong>Description:</strong> 
       <p> Sent after a customer places an order, confirming the details of their purchase.</p>
-      <li>- See Demo</li>
-      <li>- Get Code</li>
+      <li>- [See Demo](https://bananacrystal.github.io/email-templates/categories/nurture_emails/template_1.html)</li>
+      <li>- [Get Code](./template_1.html)</li>
     </li>
   </ul>
  </details>

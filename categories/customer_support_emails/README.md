@@ -2,20 +2,15 @@
   <img src="https://files.slack.com/files-pri/T019PGLEKLM-F07C927AC59/bananacrystal-logo-full.png" alt="signature" >
 <a name="readme-top"></a>
 
-# BananaCrystal Nuture Email Templates
+# BananaCrystal Customer Support Email Templates
 > Design, update, and document
 
 ## About
-- This directort consists of the cmpany's nuture email template designs for the company for authorized staff to find, copy, and use.
- <details>
-   <summary>Examples of Nuture Emails
- </summary>
-    <ul>
-  <li><strong>Educational Content:</strong> E Providing valuable information, tips, or tutorials related to the company’s products or industry.</li>
-  <li><strong>ENewsletters:</strong> E Regular updates about company news, industry trends, and other relevant content.</li>
-  <li><strong>EBlog Updates:</strong> Notifications about new blog posts or articles.</li>
-</ul>
- </details>
+- This directory consists of the company's nuture email template designs for the company for authorized staff to find, copy, and use.
+- Examples of Customer Support Emails
+  - <strong>Support Ticket Updates:</strong> Providing status updates on support tickets or inquiries.
+  - <strong>Feedback Requests:</strong> Asking for feedback on a recent purchase or support interaction.
+  - <strong>Surveys:</strong> Requesting customers to participate in surveys to gather insights.
 
 ---
 ## Templates
@@ -24,14 +19,12 @@
  </summary>
     <ul>
     <li><strong>Description:</strong> 
-    >> Sent after a customer places an order, confirming the details of their purchase.
-    - See Demo
-    - Get Code
+      <p> Sent after a customer places an order, confirming the details of their purchase.</p>
+      <li>- See Demo</li>
+      <li>- Get Code</li>
     </li>
   </ul>
  </details>
-
- 
 </ul>
 
  </details> 

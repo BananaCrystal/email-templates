@@ -2,20 +2,16 @@
   <img src="https://files.slack.com/files-pri/T019PGLEKLM-F07C927AC59/bananacrystal-logo-full.png" alt="signature" >
 <a name="readme-top"></a>
 
-# BananaCrystal Nuture Email Templates
+# BananaCrystal Prmotional Email Templates
 > Design, update, and document
 
 ## About
-- This directort consists of the cmpany's nuture email template designs for the company for authorized staff to find, copy, and use.
- <details>
-   <summary>Examples of Nuture Emails
- </summary>
-    <ul>
-  <li><strong>Educational Content:</strong> E Providing valuable information, tips, or tutorials related to the company’s products or industry.</li>
-  <li><strong>ENewsletters:</strong> E Regular updates about company news, industry trends, and other relevant content.</li>
-  <li><strong>EBlog Updates:</strong> Notifications about new blog posts or articles.</li>
-</ul>
- </details>
+- This directory consists of the company's promotional email template designs for the company for authorized staff to find, copy, and use.
+- Examples of Promotional Emails
+  - <strong>Product Launches:</strong> Announcing new products or services.
+  - <strong>Sales and Discounts:</strong> Informing customers about sales, special offers, and discount codes.
+  <strong>Seasonal Promotions:</strong> Emails related to holiday sales, seasonal promotions, or special events.
+  - <strong>Upsell/Cross-sell:</strong> Suggesting additional products or services based on previous purchases.
 
 ---
 ## Templates
@@ -24,14 +20,12 @@
  </summary>
     <ul>
     <li><strong>Description:</strong> 
-    >> Sent after a customer places an order, confirming the details of their purchase.
-    - See Demo
-    - Get Code
+      <p> Sent after a customer places an order, confirming the details of their purchase.</p>
+      <li>- See Demo</li>
+      <li>- Get Code</li>
     </li>
   </ul>
  </details>
-
- 
 </ul>
 
  </details> 

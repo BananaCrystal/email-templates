@@ -24,14 +24,12 @@
  </summary>
     <ul>
     <li><strong>Description:</strong> 
-    >> Sent after a customer places an order, confirming the details of their purchase.
-    - See Demo
-    - Get Code
+      <p> Sent after a customer places an order, confirming the details of their purchase.</p>
+      <li>- See Demo</li>
+      <li>- Get Code</li>
     </li>
   </ul>
  </details>
-
- 
 </ul>
 
  </details> 

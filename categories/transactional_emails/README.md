@@ -2,21 +2,18 @@
   <img src="https://files.slack.com/files-pri/T019PGLEKLM-F07C927AC59/bananacrystal-logo-full.png" alt="signature" >
 <a name="readme-top"></a>
 
-# BananaCrystal Nuture Email Templates
+# BananaCrystal Transactional Email Templates
 > Design, update, and document
 
 ## About
-- This directort consists of the cmpany's nuture email template designs for the company for authorized staff to find, copy, and use.
- <details>
-   <summary>Examples of Nuture Emails
- </summary>
-    <ul>
-  <li><strong>Educational Content:</strong> E Providing valuable information, tips, or tutorials related to the company’s products or industry.</li>
-  <li><strong>ENewsletters:</strong> E Regular updates about company news, industry trends, and other relevant content.</li>
-  <li><strong>EBlog Updates:</strong> Notifications about new blog posts or articles.</li>
-</ul>
- </details>
-
+- This directory consists of the company's transactional email template designs for the company for authorized staff to find, copy, and use.
+- Examples of Transactional Emails
+    - <strong>Order Confirmation:</strong> Sent after a customer places an order, confirming the details of their purchase.
+    - <strong>Shipping Confirmation:</strong> Informs the customer that their order has been shipped, often including tracking information.
+    - <strong>Invoice/Receipt:</strong> Provides a detailed summary of the purchase, including the amount paid and any applicable taxes.
+    - <strong>Password Reset:</strong> Sent when a user requests to reset their password.
+    - <strong>Account Creation:</strong> Welcome email confirming the creation of a new account.
+    - <strong>Booking Confirmation:</strong> Sent to confirm bookings or reservations, such as for flights, hotels, or events.
 ---
 ## Templates
  <details>
@@ -24,14 +21,12 @@
  </summary>
     <ul>
     <li><strong>Description:</strong> 
-    >> Sent after a customer places an order, confirming the details of their purchase.
-    - See Demo
-    - Get Code
+      <p> Sent after a customer places an order, confirming the details of their purchase.</p>
+      <li>- See Demo</li>
+      <li>- Get Code</li>
     </li>
   </ul>
  </details>
-
- 
 </ul>
 
  </details> 
